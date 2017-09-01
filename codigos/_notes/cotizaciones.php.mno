@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_cotizaciones" value="name:id_cotizacion;datatype:int,name:fec_ini;datatype:timestamp,name:estado_cot;datatype:string,name:id_usuario;datatype:int,name:cliente;datatype:string,name:descripcion;datatype:string" />
+</info>

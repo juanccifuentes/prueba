@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_cosothombre" value="name:consecutivo;datatype:int,name:centro trabajo;datatype:string,name:hombres;datatype:int,name:jornales;datatype:real,name:horas;datatype:real,name:horas totales;datatype:real,name:total costo;datatype:real,name:total;datatype:real" />
+	<infoitem key="UD_costomaquina" value="name:consecutivomachine;datatype:int,name:centro trabajo;datatype:string,name:Precio hora;datatype:real,name:Uso maquina;datatype:int,name:hora maquina;datatype:real,name:CIF;datatype:real,name:total;datatype:real" />
+</info>

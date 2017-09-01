@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Recordset1" value="name:id_vagon;datatype:int,name:longitud;datatype:real,name:altura total;datatype:real,name:altura  chasis;datatype:real,name:altura neta;datatype:real,name:ancho;datatype:real,name:densidad cana picada;datatype:real,name:densidad cana larga;datatype:real,name:capacidad volumetrica;datatype:real,name:capacidad cana picada;datatype:real,name:capacidad cana larga;datatype:real,name:peso vagon;datatype:int,name:id_cotizacion;datatype:int,name:acero;datatype:real,name:nombre;datatype:string" />
+</info>

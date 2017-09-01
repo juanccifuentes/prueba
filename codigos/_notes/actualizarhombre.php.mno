@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_hombres" value="name:consecutivo;datatype:int,name:centro trabajo;datatype:string,name:hombres;datatype:int,name:jornales;datatype:real,name:horas;datatype:real,name:horas totales;datatype:real,name:total costo;datatype:real,name:id_cotizacion;datatype:int" />
+</info>
